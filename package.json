@@ -5,5 +5,16 @@
     "express": "^4.18.3",
     "mongoose": "^8.2.1",
     "nodemon": "^3.1.0"
-  }
+  },
+  "name": "fundget-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
